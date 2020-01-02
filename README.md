@@ -1,3 +1,3 @@
-## Setup to build your own Chrome Extension
+## Starter to build your own Chrome Extension using React
 
-Build your own Chrome Extension using React
+Build your own Chrome Extension using React...
